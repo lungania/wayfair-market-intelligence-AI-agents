@@ -49,18 +49,6 @@ competitive analysis, pricing insights, and strategic recommendations.
 5. Reports are generated as styled HTML files and uploaded to Google Drive
 6. The dashboard agent pulls the latest reports and assembles a unified view
 
-## Project Structure
-wayfair-market-intelligence-agents/
-├── workflows/
-│   ├── P2_Market_Trend_Discovery.json
-│   ├── P3_Competitor_Monitoring.json
-│   ├── P4_AI_Content_Generator.json
-│   └── P5_Dashboard_Builder.json
-├── reports/
-│   ├── P2_Market_Report_Area_Rug.html
-│   ├── P3_Competitor_Report_Area_Rug.html
-│   └── dashboard_template.html
-└── README.md
 
 ## Sample Output
 
